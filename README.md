@@ -1,3 +1,3 @@
-# networking
+# Networking
 
-Network design portfolio
+Network design solutions. 
