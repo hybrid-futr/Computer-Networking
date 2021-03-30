@@ -1,7 +1,4 @@
-CIS_041_Assignment_11_Ramirez
-
-
-
+NETWORK 4
 
 IPv4: 145.169.0.0/16 (variable subnet)
 DEFAULT ROUTE: 0.0.0.0 0.0.0.0 (Next Hop)
