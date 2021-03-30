@@ -1,4 +1,4 @@
-NETWORK 4
+NETWORK_4
 
 IPv4: 145.169.0.0/16 (variable subnet)
 DEFAULT ROUTE: 0.0.0.0 0.0.0.0 (Next Hop)
