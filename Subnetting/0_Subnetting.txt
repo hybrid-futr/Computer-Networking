@@ -1,3 +1,0 @@
-This folder contains examples for subnetting various networks.
-
-#created: 3/4/2021 - JFR
