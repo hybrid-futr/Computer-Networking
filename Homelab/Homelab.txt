@@ -1,3 +1,8 @@
 HomeLab Setup
 
-So far ... (description)
+1 x 2960-24TT-L 24 port switch
+2 x 3750v2-48PS 48 port switches
+2 x 1941-SEC/k9 2-port 
+2 x EHWIC slot Gigabit Ethernet Routers. 
+
+The switches and routers are all plugged into an ADJ Products PC-100A power strip, and all of it sits in a Raising Electronics 15U 4 post open frame rack.
