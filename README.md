@@ -1,6 +1,6 @@
 # Computer Networking
 
-This folder is broad and will grow as I work more closely with different hardware. 
+This folder is broad and will grow as I work more closely with different software and hardware. 
 
 
 Folders: 
