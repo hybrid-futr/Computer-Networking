@@ -1,6 +1,6 @@
 # Computer Networking
 
-This folder is broad and will grow as I work more closely with different software and hardware. 
+This folder is focused on Cisco at the moment but will grow as I work more closely with different software and hardware vendors. 
 
 
 Folders: 
